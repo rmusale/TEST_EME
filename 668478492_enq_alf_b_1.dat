@@ -1,0 +1,6237 @@
+Record 164715:
+
+[record
+  internal_seq_no    9553485
+  ticket_order_no    18069591
+  con_no             668478492
+  record_status      "2"
+  subscriber_cd      39030
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            NULL
+  product_ind        NULL
+  footprint_ind      "N"
+  enq_amt            NULL
+  instlmt_amt        NULL
+  con_salary         NULL
+  enquirer_name      "TransUnion Interactive"
+  enquirer_tel       "0861482482"
+  sbc_industry       "OT"
+  match_typ          "2"
+  enq_cd             "CCA"
+  supplier_ref_no    "IT0103"
+  ins_dttm           3706343471000000
+  ins_user_id        "39030"
+  ins_feeder_proc_id "01CPU"
+  ins_feed_id        "C:13"
+  ins_machine_id     "san1lplrtn1.transunion.co.za"
+  upd_dttm           3708071033000000
+  upd_user_id        "MMothapo"
+  upd_feeder_proc_id "01OA"
+  upd_feed_id        "EQ"
+  upd_machine_id     "san1lplrtn2.transunion.co.za"]
+
+Record 164716:
+
+[record
+  internal_seq_no    368637913
+  ticket_order_no    18069535
+  con_no             668478492
+  record_status      "2"
+  subscriber_cd      59588
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "45"
+  product_ind        "E"
+  footprint_ind      "N"
+  enq_amt            0
+  instlmt_amt        ".00"
+  con_salary         ".00"
+  enquirer_name      "TUISCORECARD"
+  enquirer_tel       "09999999999"
+  sbc_industry       "OT"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3705986998000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3708071024000000
+  upd_user_id        "MMothapo"
+  upd_feeder_proc_id "01OA"
+  upd_feed_id        "EQ"
+  upd_machine_id     "san1lplrtn2.transunion.co.za"]
+
+Record 164717:
+
+[record
+  internal_seq_no    368637908
+  ticket_order_no    18069494
+  con_no             668478492
+  record_status      "2"
+  subscriber_cd      39030
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "49"
+  product_ind        "E"
+  footprint_ind      "N"
+  enq_amt            0
+  instlmt_amt        ".00"
+  con_salary         ".00"
+  enquirer_name      "TRANSUNION INTERACTIVE"
+  enquirer_tel       "0861482482"
+  sbc_industry       "OT"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3705986996000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3708071017000000
+  upd_user_id        "MMothapo"
+  upd_feeder_proc_id "01OA"
+  upd_feed_id        "EQ"
+  upd_machine_id     "san1lplrtn2.transunion.co.za"]
+
+Record 164718:
+
+[record
+  internal_seq_no    11714950
+  ticket_order_no    16970631
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      47220
+  subscriber_ref     "101706300923572"
+  enq_reason         NULL
+  enq_typ            NULL
+  product_ind        NULL
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        NULL
+  con_salary         "33700.00"
+  enquirer_name      "ABSA Bank Ltd"
+  enquirer_tel       "0861463"
+  sbc_industry       "CC"
+  match_typ          "2"
+  enq_cd             "CCA"
+  supplier_ref_no    "AB0302"
+  ins_dttm           3707803728000000
+  ins_user_id        "47220"
+  ins_feeder_proc_id "01CPU"
+  ins_feed_id        "C:41"
+  ins_machine_id     "san1lplrtn1.transunion.co.za"
+  upd_dttm           3707803728000000
+  upd_user_id        "47220"
+  upd_feeder_proc_id "01CPU"
+  upd_feed_id        "C:41"
+  upd_machine_id     "san1lplrtn1.transunion.co.za"]
+
+Record 164719:
+
+[record
+  internal_seq_no    11573882
+  ticket_order_no    16766216
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      51471
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            NULL
+  product_ind        NULL
+  footprint_ind      "N"
+  enq_amt            NULL
+  instlmt_amt        NULL
+  con_salary         NULL
+  enquirer_name      "WESBANK"
+  enquirer_tel       "011636000"
+  sbc_industry       "VF"
+  match_typ          "2"
+  enq_cd             "CCA"
+  supplier_ref_no    "WS0102"
+  ins_dttm           3707722039000000
+  ins_user_id        "51471"
+  ins_feeder_proc_id "01CPU"
+  ins_feed_id        "C:41"
+  ins_machine_id     "san1lplrtn2.transunion.co.za"
+  upd_dttm           3707722039000000
+  upd_user_id        "51471"
+  upd_feeder_proc_id "01CPU"
+  upd_feed_id        "C:41"
+  upd_machine_id     "san1lplrtn2.transunion.co.za"]
+
+Record 164720:
+
+[record
+  internal_seq_no    9832238
+  ticket_order_no    16744055
+  con_no             668478492
+  record_status      "2"
+  subscriber_cd      28631
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            NULL
+  product_ind        NULL
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        NULL
+  con_salary         NULL
+  enquirer_name      "Patricia Simone Chan Sam"
+  enquirer_tel       "+27116319918"
+  sbc_industry       "PL"
+  match_typ          "2"
+  enq_cd             "CCA"
+  supplier_ref_no    "714"
+  ins_dttm           3706506169000000
+  ins_user_id        "28631"
+  ins_feeder_proc_id "01CPU"
+  ins_feed_id        "C:34"
+  ins_machine_id     "san1lplrtn1.transunion.co.za"
+  upd_dttm           3707718100000000
+  upd_user_id        "MMothapo"
+  upd_feeder_proc_id "01OA"
+  upd_feed_id        "EQ"
+  upd_machine_id     "san1lplrtn2.transunion.co.za"]
+
+Record 164721:
+
+[record
+  internal_seq_no    10218442
+  ticket_order_no    16743960
+  con_no             668478492
+  record_status      "2"
+  subscriber_cd      28631
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            NULL
+  product_ind        NULL
+  footprint_ind      "D"
+  enq_amt            0
+  instlmt_amt        NULL
+  con_salary         NULL
+  enquirer_name      "Patricia Simone Chan Sam"
+  enquirer_tel       "+27116319918"
+  sbc_industry       "PL"
+  match_typ          "2"
+  enq_cd             "CCA"
+  supplier_ref_no    "714"
+  ins_dttm           3706871975000000
+  ins_user_id        "28631"
+  ins_feeder_proc_id "01CPU"
+  ins_feed_id        "C:34"
+  ins_machine_id     "san1lplrtn1.transunion.co.za"
+  upd_dttm           3707718082000000
+  upd_user_id        "MMothapo"
+  upd_feeder_proc_id "01OA"
+  upd_feed_id        "EQ"
+  upd_machine_id     "san1lplrtn2.transunion.co.za"]
+
+Record 164722:
+
+[record
+  internal_seq_no    10389503
+  ticket_order_no    16743860
+  con_no             668478492
+  record_status      "2"
+  subscriber_cd      28631
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            NULL
+  product_ind        NULL
+  footprint_ind      "D"
+  enq_amt            0
+  instlmt_amt        NULL
+  con_salary         NULL
+  enquirer_name      "Patricia Simone Chan Sam"
+  enquirer_tel       "+27116319918"
+  sbc_industry       "PL"
+  match_typ          "2"
+  enq_cd             "CCA"
+  supplier_ref_no    "714"
+  ins_dttm           3706960517000000
+  ins_user_id        "28631"
+  ins_feeder_proc_id "01CPU"
+  ins_feed_id        "C:34"
+  ins_machine_id     "san1lplrtn2.transunion.co.za"
+  upd_dttm           3707718067000000
+  upd_user_id        "MMothapo"
+  upd_feeder_proc_id "01OA"
+  upd_feed_id        "EQ"
+  upd_machine_id     "san1lplrtn2.transunion.co.za"]
+
+Record 164723:
+
+[record
+  internal_seq_no    10546839
+  ticket_order_no    16743530
+  con_no             668478492
+  record_status      "2"
+  subscriber_cd      28631
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            NULL
+  product_ind        NULL
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        NULL
+  con_salary         NULL
+  enquirer_name      "Patricia Simone Chan Sam"
+  enquirer_tel       "+27116319918"
+  sbc_industry       "PL"
+  match_typ          "2"
+  enq_cd             "CCA"
+  supplier_ref_no    "714"
+  ins_dttm           3707045586000000
+  ins_user_id        "28631"
+  ins_feeder_proc_id "01CPU"
+  ins_feed_id        "C:34"
+  ins_machine_id     "san1lplrtn2.transunion.co.za"
+  upd_dttm           3707718006000000
+  upd_user_id        "MMothapo"
+  upd_feeder_proc_id "01OA"
+  upd_feed_id        "EQ"
+  upd_machine_id     "san1lplrtn2.transunion.co.za"]
+
+Record 164724:
+
+[record
+  internal_seq_no    11367812
+  ticket_order_no    16229680
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      59588
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "13"
+  product_ind        NULL
+  footprint_ind      "N"
+  enq_amt            NULL
+  instlmt_amt        NULL
+  con_salary         NULL
+  enquirer_name      "TUI_Scorecard"
+  enquirer_tel       "9999999999"
+  sbc_industry       "OT"
+  match_typ          "2"
+  enq_cd             "CCA"
+  supplier_ref_no    "IT0101"
+  ins_dttm           3707622450000000
+  ins_user_id        "59588"
+  ins_feeder_proc_id "01CPU"
+  ins_feed_id        "C:13"
+  ins_machine_id     "san1lplrtn2.transunion.co.za"
+  upd_dttm           3707622450000000
+  upd_user_id        "59588"
+  upd_feeder_proc_id "01CPU"
+  upd_feed_id        "C:13"
+  upd_machine_id     "san1lplrtn2.transunion.co.za"]
+
+Record 164725:
+
+[record
+  internal_seq_no    10720067
+  ticket_order_no    14494505
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      50377
+  subscriber_ref     "System"
+  enq_reason         "CREDIT RISK"
+  enq_typ            "32"
+  product_ind        NULL
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        NULL
+  con_salary         NULL
+  enquirer_name      "MFC, A DIVISION OF NEDBANK"
+  enquirer_tel       "011899000"
+  sbc_industry       "BK"
+  match_typ          "2"
+  enq_cd             "CCA"
+  supplier_ref_no    "IN0301"
+  ins_dttm           3707134331000000
+  ins_user_id        "50377"
+  ins_feeder_proc_id "01CPU"
+  ins_feed_id        "C:41"
+  ins_machine_id     "san1lplrtn1.transunion.co.za"
+  upd_dttm           3707134331000000
+  upd_user_id        "50377"
+  upd_feeder_proc_id "01CPU"
+  upd_feed_id        "C:41"
+  upd_machine_id     "san1lplrtn1.transunion.co.za"]
+
+Record 164726:
+
+[record
+  internal_seq_no    10635819
+  ticket_order_no    14389133
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      28631
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            NULL
+  product_ind        NULL
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        NULL
+  con_salary         NULL
+  enquirer_name      "Patricia Simone Chan Sam"
+  enquirer_tel       "+27116319918"
+  sbc_industry       "PL"
+  match_typ          "2"
+  enq_cd             "CCA"
+  supplier_ref_no    "714"
+  ins_dttm           3707116654000000
+  ins_user_id        "28631"
+  ins_feeder_proc_id "01CPU"
+  ins_feed_id        "C:34"
+  ins_machine_id     "san1lplrtn1.transunion.co.za"
+  upd_dttm           3707116654000000
+  upd_user_id        "28631"
+  upd_feeder_proc_id "01CPU"
+  upd_feed_id        "C:34"
+  upd_machine_id     "san1lplrtn1.transunion.co.za"]
+
+Record 164727:
+
+[record
+  internal_seq_no    9918553
+  ticket_order_no    10924050
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      49545
+  subscriber_ref     NULL
+  enq_reason         "CREDIT RISK"
+  enq_typ            "32"
+  product_ind        NULL
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        NULL
+  con_salary         "42900.00"
+  enquirer_name      "MTN (Pty) Ltd"
+  enquirer_tel       "011913000"
+  sbc_industry       "TE"
+  match_typ          "2"
+  enq_cd             "CCA"
+  supplier_ref_no    "XJ0101"
+  ins_dttm           3706525485000000
+  ins_user_id        "49545"
+  ins_feeder_proc_id "01CPU"
+  ins_feed_id        "C:41"
+  ins_machine_id     "san1lplrtn1.transunion.co.za"
+  upd_dttm           3706525485000000
+  upd_user_id        "49545"
+  upd_feeder_proc_id "01CPU"
+  upd_feed_id        "C:41"
+  upd_machine_id     "san1lplrtn1.transunion.co.za"]
+
+Record 164728:
+
+[record
+  internal_seq_no    9856050
+  ticket_order_no    10847027
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      62839
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            NULL
+  product_ind        NULL
+  footprint_ind      "Y"
+  enq_amt            NULL
+  instlmt_amt        NULL
+  con_salary         NULL
+  enquirer_name      "Wonga Finance SA Ltd"
+  enquirer_tel       "086196641"
+  sbc_industry       "FL"
+  match_typ          "2"
+  enq_cd             "NLR"
+  supplier_ref_no    NULL
+  ins_dttm           3706511787000000
+  ins_user_id        "62839"
+  ins_feeder_proc_id "01CPU"
+  ins_feed_id        "C:42"
+  ins_machine_id     "san1lplrtn1.transunion.co.za"
+  upd_dttm           3706511787000000
+  upd_user_id        "62839"
+  upd_feeder_proc_id "01CPU"
+  upd_feed_id        "C:42"
+  upd_machine_id     "san1lplrtn1.transunion.co.za"]
+
+Record 164729:
+
+[record
+  internal_seq_no    9853923
+  ticket_order_no    10844226
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      53739
+  subscriber_ref     "RCS-DEBUG-TEST"
+  enq_reason         NULL
+  enq_typ            NULL
+  product_ind        NULL
+  footprint_ind      "N"
+  enq_amt            0
+  instlmt_amt        NULL
+  con_salary         ".00"
+  enquirer_name      "RCS CASH LOANS"
+  enquirer_tel       "021-597-4000"
+  sbc_industry       "FL"
+  match_typ          "2"
+  enq_cd             "CCA"
+  supplier_ref_no    "ZS0179"
+  ins_dttm           3706511321000000
+  ins_user_id        "53739"
+  ins_feeder_proc_id "01CPU"
+  ins_feed_id        "C:13"
+  ins_machine_id     "san1lplrtn1.transunion.co.za"
+  upd_dttm           3706511321000000
+  upd_user_id        "53739"
+  upd_feeder_proc_id "01CPU"
+  upd_feed_id        "C:13"
+  upd_machine_id     "san1lplrtn1.transunion.co.za"]
+
+Record 164730:
+
+[record
+  internal_seq_no    9475169
+  ticket_order_no    9475088
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      46947
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            NULL
+  product_ind        NULL
+  footprint_ind      "Y"
+  enq_amt            NULL
+  instlmt_amt        NULL
+  con_salary         NULL
+  enquirer_name      "SVF t/a Capfin"
+  enquirer_tel       "0873540000"
+  sbc_industry       "FC"
+  match_typ          "2"
+  enq_cd             "NLR"
+  supplier_ref_no    "5333"
+  ins_dttm           3706278246000000
+  ins_user_id        "46947"
+  ins_feeder_proc_id "01CPU"
+  ins_feed_id        "C:43"
+  ins_machine_id     "san1lplrtn2.transunion.co.za"
+  upd_dttm           3706278246000000
+  upd_user_id        "46947"
+  upd_feeder_proc_id "01CPU"
+  upd_feed_id        "C:43"
+  upd_machine_id     "san1lplrtn2.transunion.co.za"]
+
+Record 164731:
+
+[record
+  internal_seq_no    368750286
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      46452
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "45"
+  product_ind        "E"
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "REF FNB BR MNG MYBRANCH"
+  enquirer_tel       "0860102970"
+  sbc_industry       "BK"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3706019166000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3706019166000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 164732:
+
+[record
+  internal_seq_no    368595181
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      59551
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "45"
+  product_ind        "E"
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "ABSA"
+  enquirer_tel       "02883000"
+  sbc_industry       "BK"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3705924195000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3705924195000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 164733:
+
+[record
+  internal_seq_no    368578500
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      44521
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "45"
+  product_ind        "E"
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "REF FNB BR MNG PREMIER SUITE"
+  enquirer_tel       "0875777000"
+  sbc_industry       "BK"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3705919998000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3705919998000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 164734:
+
+[record
+  internal_seq_no    368569702
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      47066
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "45"
+  product_ind        "E"
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "WESBANK ACQUISITI"
+  enquirer_tel       "0861482435"
+  sbc_industry       "BK"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3705917932000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3705917932000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 164735:
+
+[record
+  internal_seq_no    368569686
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      50377
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "32"
+  product_ind        "E"
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "MFC A DIVISION OF NEDBANK"
+  enquirer_tel       "0118799000"
+  sbc_industry       "BK"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3705917929000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3705917929000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 164736:
+
+[record
+  internal_seq_no    368565890
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      51101
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "45"
+  product_ind        "E"
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "AVAF"
+  enquirer_tel       "0860669669"
+  sbc_industry       "VF"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3705916951000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3705916951000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 164737:
+
+[record
+  internal_seq_no    368495220
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      59588
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "45"
+  product_ind        "E"
+  footprint_ind      "N"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "TUISCORECARD"
+  enquirer_tel       "09999999999"
+  sbc_industry       "OT"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3705897826000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3705897826000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 164738:
+
+[record
+  internal_seq_no    368495217
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      39030
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "49"
+  product_ind        "E"
+  footprint_ind      "N"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "TRANSUNION INTERACTIVE"
+  enquirer_tel       "0861482482"
+  sbc_industry       "OT"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3705897824000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3705897824000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 164739:
+
+[record
+  internal_seq_no    368466742
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      59927
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "45"
+  product_ind        "E"
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "MDD SA"
+  enquirer_tel       "0"
+  sbc_industry       "OT"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3705840780000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3705840780000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 164740:
+
+[record
+  internal_seq_no    368433395
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      51882
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "45"
+  product_ind        "E"
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "DIRECT AXIS"
+  enquirer_tel       "0116326000"
+  sbc_industry       "FL"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3705831548000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3705831548000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 164741:
+
+[record
+  internal_seq_no    368359797
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      59588
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "45"
+  product_ind        "E"
+  footprint_ind      "N"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "TUISCORECARD"
+  enquirer_tel       "09999999999"
+  sbc_industry       "OT"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3705810328000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3705810328000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 164742:
+
+[record
+  internal_seq_no    368359795
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      39030
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "49"
+  product_ind        "E"
+  footprint_ind      "N"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "TRANSUNION INTERACTIVE"
+  enquirer_tel       "0861482482"
+  sbc_industry       "OT"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3705810327000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3705810327000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 164743:
+
+[record
+  internal_seq_no    368288757
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      53739
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "45"
+  product_ind        "E"
+  footprint_ind      "N"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "RCS CASH LOANS"
+  enquirer_tel       "0"
+  sbc_industry       "FL"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3705743428000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3705743428000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 164744:
+
+[record
+  internal_seq_no    368275197
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      59588
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "45"
+  product_ind        "E"
+  footprint_ind      "N"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "TUISCORECARD"
+  enquirer_tel       "09999999999"
+  sbc_industry       "OT"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3705739242000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3705739242000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 164745:
+
+[record
+  internal_seq_no    368275160
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      39030
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "49"
+  product_ind        "E"
+  footprint_ind      "N"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "TRANSUNION INTERACTIVE"
+  enquirer_tel       "0861482482"
+  sbc_industry       "OT"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3705739236000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3705739236000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 164746:
+
+[record
+  internal_seq_no    368103790
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      59588
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "45"
+  product_ind        "E"
+  footprint_ind      "N"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "TUISCORECARD"
+  enquirer_tel       "09999999999"
+  sbc_industry       "OT"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3705647401000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3705647401000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 164747:
+
+[record
+  internal_seq_no    368103773
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      39030
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "49"
+  product_ind        "E"
+  footprint_ind      "N"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "TRANSUNION INTERACTIVE"
+  enquirer_tel       "0861482482"
+  sbc_industry       "OT"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3705647396000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3705647396000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 164748:
+
+[record
+  internal_seq_no    367958626
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      59881
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "43"
+  product_ind        "E"
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "DIRECTAXIS DA"
+  enquirer_tel       "0217643404"
+  sbc_industry       "FC"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3705407704000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3705407704000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 164749:
+
+[record
+  internal_seq_no    367956997
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      59588
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "45"
+  product_ind        "E"
+  footprint_ind      "N"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "TUISCORECARD"
+  enquirer_tel       "09999999999"
+  sbc_industry       "OT"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3705407300000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3705407300000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 164750:
+
+[record
+  internal_seq_no    367956989
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      39030
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "49"
+  product_ind        "E"
+  footprint_ind      "N"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "TRANSUNION INTERACTIVE"
+  enquirer_tel       "0861482482"
+  sbc_industry       "OT"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3705407298000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3705407298000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 164751:
+
+[record
+  internal_seq_no    367909689
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      53739
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "45"
+  product_ind        "E"
+  footprint_ind      "N"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "RCS CASH LOANS"
+  enquirer_tel       "0"
+  sbc_industry       "FL"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3705394676000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3705394676000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 164752:
+
+[record
+  internal_seq_no    367653098
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      59588
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "45"
+  product_ind        "E"
+  footprint_ind      "N"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "TUISCORECARD"
+  enquirer_tel       "09999999999"
+  sbc_industry       "OT"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3705234325000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3705234325000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 164753:
+
+[record
+  internal_seq_no    367652680
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      39030
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "49"
+  product_ind        "E"
+  footprint_ind      "N"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "TRANSUNION INTERACTIVE"
+  enquirer_tel       "0861482482"
+  sbc_industry       "OT"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3705234228000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3705234228000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 164754:
+
+[record
+  internal_seq_no    16246193
+  ticket_order_no    20518387343
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      27418
+  subscriber_ref     "630"
+  enq_reason         "O"
+  enq_typ            "02"
+  product_ind        "M"
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "Customer service"
+  enquirer_tel       "0860100558"
+  sbc_industry       "NL"
+  match_typ          "M"
+  enq_cd             "NLR"
+  supplier_ref_no    "630"
+  ins_dttm           3705227419000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3705227419000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 164755:
+
+[record
+  internal_seq_no    367624083
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      47242
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "32"
+  product_ind        "E"
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "WOOLWORTHS FINANCIAL SERVICE"
+  enquirer_tel       "0861502040"
+  sbc_industry       "CL"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3705227220000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3705227220000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 164756:
+
+[record
+  internal_seq_no    367622728
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      48635
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "43"
+  product_ind        "E"
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "DIRECTAXISDD"
+  enquirer_tel       "0217643930"
+  sbc_industry       "FC"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3705226878000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3705226878000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 164757:
+
+[record
+  internal_seq_no    367347337
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      40895
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "34"
+  product_ind        "E"
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "STANDARD BANK INSURANCE BROKERS"
+  enquirer_tel       "0118585000"
+  sbc_industry       "BK"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3705057755000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3705057755000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 164758:
+
+[record
+  internal_seq_no    367057541
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      59927
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "45"
+  product_ind        "E"
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "MDD SA"
+  enquirer_tel       "0"
+  sbc_industry       "OT"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3704785959000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3704785959000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 164759:
+
+[record
+  internal_seq_no    365801038
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      49617
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "32"
+  product_ind        "E"
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "MOBICRED"
+  enquirer_tel       "0873513083"
+  sbc_industry       "GR"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3703852965000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3703852965000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 164760:
+
+[record
+  internal_seq_no    365784710
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      60455
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "45"
+  product_ind        "E"
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "FOSCHINIDATA"
+  enquirer_tel       "0219371111"
+  sbc_industry       "OT"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3703849052000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3703849052000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 164761:
+
+[record
+  internal_seq_no    365683010
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      51209
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "32"
+  product_ind        "E"
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "TRUWORTHS"
+  enquirer_tel       "0214602300"
+  sbc_industry       "CL"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3703776836000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3703776836000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 164762:
+
+[record
+  internal_seq_no    365669839
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      38767
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "32"
+  product_ind        "E"
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "VODACOMCOS"
+  enquirer_tel       "0115464826"
+  sbc_industry       "TE"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3703744709000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3703744709000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 164763:
+
+[record
+  internal_seq_no    365545283
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      38767
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "32"
+  product_ind        "E"
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "VODACOMCOS"
+  enquirer_tel       "0115464826"
+  sbc_industry       "TE"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3703581800000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3703581800000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 164764:
+
+[record
+  internal_seq_no    364619663
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      48637
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "43"
+  product_ind        "E"
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "DIRECTAXIS DA"
+  enquirer_tel       "0217643404"
+  sbc_industry       "FC"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3702895760000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3702895760000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 164765:
+
+[record
+  internal_seq_no    364514650
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      53739
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "45"
+  product_ind        "E"
+  footprint_ind      "N"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "RCS CASH LOANS"
+  enquirer_tel       "0"
+  sbc_industry       "FL"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3702823288000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3702823288000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 164766:
+
+[record
+  internal_seq_no    363038103
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      59881
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "43"
+  product_ind        "E"
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "DIRECTAXIS DA"
+  enquirer_tel       "0217643404"
+  sbc_industry       "FC"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3701587539000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3701587539000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 164767:
+
+[record
+  internal_seq_no    362994119
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      48640
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "43"
+  product_ind        "E"
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "DIRECTAXISLD"
+  enquirer_tel       "0217643930"
+  sbc_industry       "FC"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3701527841000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3701527841000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 164768:
+
+[record
+  internal_seq_no    362883966
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      47220
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "45"
+  product_ind        "E"
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "ABSA BANK LTD"
+  enquirer_tel       "0861462273"
+  sbc_industry       "CC"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3701498115000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3701498115000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 164769:
+
+[record
+  internal_seq_no    362656003
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      39030
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "49"
+  product_ind        "E"
+  footprint_ind      "N"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "TRANSUNION INTERACTIVE"
+  enquirer_tel       "0861482482"
+  sbc_industry       "OT"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3701061901000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3701061901000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 164770:
+
+[record
+  internal_seq_no    362550213
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      53739
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "45"
+  product_ind        "E"
+  footprint_ind      "N"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "RCS CASH LOANS"
+  enquirer_tel       "0"
+  sbc_industry       "FL"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3700982936000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3700982936000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 164771:
+
+[record
+  internal_seq_no    362533256
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      47242
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "32"
+  product_ind        "E"
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "WOOLWORTHS FINANCIAL SERVICE"
+  enquirer_tel       "0861502040"
+  sbc_industry       "CL"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3700978164000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3700978164000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 164772:
+
+[record
+  internal_seq_no    362042015
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      48913
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "45"
+  product_ind        "E"
+  footprint_ind      "N"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "TRANSUNION"
+  enquirer_tel       "0112149600"
+  sbc_industry       "OT"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3700500259000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3700500259000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 164773:
+
+[record
+  internal_seq_no    361901227
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      59230
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "45"
+  product_ind        "E"
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "GP CARDS V"
+  enquirer_tel       "020"
+  sbc_industry       "FC"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3700409943000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3700409943000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 164774:
+
+[record
+  internal_seq_no    361765623
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      59230
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "45"
+  product_ind        "E"
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "GP CARDS V"
+  enquirer_tel       "020"
+  sbc_industry       "FC"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3700326747000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3700326747000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 164775:
+
+[record
+  internal_seq_no    15627952
+  ticket_order_no    18179626769
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      27418
+  subscriber_ref     "630"
+  enq_reason         "O"
+  enq_typ            "02"
+  product_ind        "M"
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "Customer service"
+  enquirer_tel       "0860100558"
+  sbc_industry       "NL"
+  match_typ          "M"
+  enq_cd             "NLR"
+  supplier_ref_no    "630"
+  ins_dttm           3700299434000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3700299434000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 164776:
+
+[record
+  internal_seq_no    10000590236
+  ticket_order_no    101217855
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      42579
+  subscriber_ref     NULL
+  enq_reason         "60"
+  enq_typ            "FTL"
+  product_ind        NULL
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        NULL
+  con_salary         NULL
+  enquirer_name      "NASTASHA JOHNSON"
+  enquirer_tel       "7643000"
+  sbc_industry       NULL
+  match_typ          NULL
+  enq_cd             NULL
+  supplier_ref_no    NULL
+  ins_dttm           3700299340000000
+  ins_user_id        "abbatch"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3700299340000000
+  upd_user_id        "abbatch"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 164777:
+
+[record
+  internal_seq_no    361558650
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      51882
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "45"
+  product_ind        "E"
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "DIRECT AXIS"
+  enquirer_tel       "0116326000"
+  sbc_industry       "FL"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3700211901000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3700211901000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 164778:
+
+[record
+  internal_seq_no    360964551
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      47220
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "45"
+  product_ind        "E"
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "ABSA BANK LTD"
+  enquirer_tel       "0861462273"
+  sbc_industry       "CC"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3699715529000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3699715529000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 164779:
+
+[record
+  internal_seq_no    360964025
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      59230
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "45"
+  product_ind        "E"
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "GP CARDS V"
+  enquirer_tel       "020"
+  sbc_industry       "FC"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3699714798000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3699714798000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 164780:
+
+[record
+  internal_seq_no    360931097
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      71502
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "45"
+  product_ind        "E"
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "ABSA BANK LTD"
+  enquirer_tel       "0861462273"
+  sbc_industry       "BK"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3699701788000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3699701788000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 164781:
+
+[record
+  internal_seq_no    360906853
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      48634
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "43"
+  product_ind        "E"
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "DIRECTAXIS DA"
+  enquirer_tel       "0217643404"
+  sbc_industry       "FC"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3699695257000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3699695257000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 164782:
+
+[record
+  internal_seq_no    360906643
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      50583
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "45"
+  product_ind        "E"
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "HLPDSK"
+  enquirer_tel       "0114894311"
+  sbc_industry       "IN"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3699695195000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3699695195000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 164783:
+
+[record
+  internal_seq_no    360906646
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      45730
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "45"
+  product_ind        "E"
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "HLPDSK"
+  enquirer_tel       "0114894311"
+  sbc_industry       "IN"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3699695195000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3699695195000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 164784:
+
+[record
+  internal_seq_no    360881959
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      45798
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "45"
+  product_ind        "E"
+  footprint_ind      "N"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "REF FNB BR MNG HOGAN SECURITY DEPARTMEN"
+  enquirer_tel       "011352"
+  sbc_industry       "BK"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3699688818000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3699688818000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 164785:
+
+[record
+  internal_seq_no    360879140
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      44521
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "45"
+  product_ind        "E"
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "REF FNB BR MNG MYBRANCH"
+  enquirer_tel       "0860102970"
+  sbc_industry       "BK"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3699688133000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3699688133000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 164786:
+
+[record
+  internal_seq_no    360875042
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      40661
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "45"
+  product_ind        "E"
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "DISCOVERY INSURE"
+  enquirer_tel       "0860998877"
+  sbc_industry       "IN"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3699687135000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3699687135000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 164787:
+
+[record
+  internal_seq_no    360862476
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      46977
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "45"
+  product_ind        "E"
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "MUSA RAMPOTO"
+  enquirer_tel       "0860006784"
+  sbc_industry       "OT"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3699683966000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3699683966000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 164788:
+
+[record
+  internal_seq_no    360859835
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      40895
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "34"
+  product_ind        "E"
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "STANDARD BANK INSURANCE BROKERS"
+  enquirer_tel       "0118585000"
+  sbc_industry       "BK"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3699683294000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3699683294000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 164789:
+
+[record
+  internal_seq_no    360773294
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      40895
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "34"
+  product_ind        "E"
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "STANDARD BANK INSURANCE BROKERS"
+  enquirer_tel       "0118585000"
+  sbc_industry       "BK"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3699609657000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3699609657000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 164790:
+
+[record
+  internal_seq_no    360575684
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      51101
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "45"
+  product_ind        "E"
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "AVAF"
+  enquirer_tel       "0860669669"
+  sbc_industry       "VF"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3699353243000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3699353243000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 164791:
+
+[record
+  internal_seq_no    360575192
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      50377
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "32"
+  product_ind        "E"
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "MFC A DIVISION OF NEDBANK"
+  enquirer_tel       "0118799000"
+  sbc_industry       "BK"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3699353094000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3699353094000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 164792:
+
+[record
+  internal_seq_no    360550747
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      52483
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "45"
+  product_ind        "E"
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "BMW FINANCIAL SERV BMW FINANCIAL SERVIC"
+  enquirer_tel       "0"
+  sbc_industry       "VF"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3699345564000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3699345564000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 164793:
+
+[record
+  internal_seq_no    360296226
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      47066
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "45"
+  product_ind        "E"
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "WESBANK ACQUISITI"
+  enquirer_tel       "0861482435"
+  sbc_industry       "BK"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3699173111000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3699173111000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 164794:
+
+[record
+  internal_seq_no    354539517
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      48268
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "32"
+  product_ind        "E"
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "MOBILE TELEPHONE"
+  enquirer_tel       "0112146000"
+  sbc_industry       "CE"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3694336917000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3694336917000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 164795:
+
+[record
+  internal_seq_no    10024023573
+  ticket_order_no    977013721
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      40985
+  subscriber_ref     NULL
+  enq_reason         "60"
+  enq_typ            "FTL"
+  product_ind        NULL
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        NULL
+  con_salary         NULL
+  enquirer_name      "GERALD MANYONI"
+  enquirer_tel       "9123000"
+  sbc_industry       NULL
+  match_typ          NULL
+  enq_cd             NULL
+  supplier_ref_no    NULL
+  ins_dttm           3684736205000000
+  ins_user_id        "abbatch"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3684736205000000
+  upd_user_id        "abbatch"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 164796:
+
+[record
+  internal_seq_no    342855475
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      48268
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "32"
+  product_ind        "E"
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "MOBILE TELEPHONE"
+  enquirer_tel       "0112146000"
+  sbc_industry       "CE"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3684401741000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3684401741000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 164797:
+
+[record
+  internal_seq_no    309079847
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      45033
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "45"
+  product_ind        "E"
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "MMSA"
+  enquirer_tel       "0315734000"
+  sbc_industry       "IN"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3654946385000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3654946385000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 164798:
+
+[record
+  internal_seq_no    308751762
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      44521
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "45"
+  product_ind        "E"
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "REF FNB BR MNG FNB DIRECT CBS"
+  enquirer_tel       "020860102970"
+  sbc_industry       "BK"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3654607867000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3654607867000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 164799:
+
+[record
+  internal_seq_no    298199863
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      44521
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "45"
+  product_ind        "E"
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "REF FNB BR MNG GREENSTONE"
+  enquirer_tel       "0114522016"
+  sbc_industry       "BK"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3645856993000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3645856993000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 164800:
+
+[record
+  internal_seq_no    297992968
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      46452
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "45"
+  product_ind        "E"
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "REF FNB BR MNG MYBRANCH"
+  enquirer_tel       "0860102970"
+  sbc_industry       "BK"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3645600272000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3645600272000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 164801:
+
+[record
+  internal_seq_no    261686744
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      44521
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "45"
+  product_ind        "E"
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "REF FNB BR MNG FNB DIRECT CBS"
+  enquirer_tel       "020860102970"
+  sbc_industry       "BK"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3612846047000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3612846047000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 164802:
+
+[record
+  internal_seq_no    261599736
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      45798
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "45"
+  product_ind        "E"
+  footprint_ind      "N"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "REF FNB BR MNG HOGAN SECURITY DEPARTMEN"
+  enquirer_tel       "011352"
+  sbc_industry       "BK"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3612768800000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3612768800000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 164803:
+
+[record
+  internal_seq_no    170602297
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      40998
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "32"
+  product_ind        "E"
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "PDG"
+  enquirer_tel       "0112694701"
+  sbc_industry       "BK"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3526717219000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3526717219000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 164940:
+
+[record
+  internal_seq_no    360296226
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      47066
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "45"
+  product_ind        "E"
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "WESBANK ACQUISITI"
+  enquirer_tel       "0861482435"
+  sbc_industry       "BK"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3699173111000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3699173111000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 164941:
+
+[record
+  internal_seq_no    354539517
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      48268
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "32"
+  product_ind        "E"
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "MOBILE TELEPHONE"
+  enquirer_tel       "0112146000"
+  sbc_industry       "CE"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3694336917000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3694336917000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 164942:
+
+[record
+  internal_seq_no    10024023573
+  ticket_order_no    977013721
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      40985
+  subscriber_ref     NULL
+  enq_reason         "60"
+  enq_typ            "FTL"
+  product_ind        NULL
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        NULL
+  con_salary         NULL
+  enquirer_name      "GERALD MANYONI"
+  enquirer_tel       "9123000"
+  sbc_industry       NULL
+  match_typ          NULL
+  enq_cd             NULL
+  supplier_ref_no    NULL
+  ins_dttm           3684736205000000
+  ins_user_id        "abbatch"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3684736205000000
+  upd_user_id        "abbatch"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 164943:
+
+[record
+  internal_seq_no    342855475
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      48268
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "32"
+  product_ind        "E"
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "MOBILE TELEPHONE"
+  enquirer_tel       "0112146000"
+  sbc_industry       "CE"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3684401741000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3684401741000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 164944:
+
+[record
+  internal_seq_no    309079847
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      45033
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "45"
+  product_ind        "E"
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "MMSA"
+  enquirer_tel       "0315734000"
+  sbc_industry       "IN"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3654946385000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3654946385000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 164945:
+
+[record
+  internal_seq_no    308751762
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      44521
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "45"
+  product_ind        "E"
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "REF FNB BR MNG FNB DIRECT CBS"
+  enquirer_tel       "020860102970"
+  sbc_industry       "BK"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3654607867000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3654607867000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 164946:
+
+[record
+  internal_seq_no    298199863
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      44521
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "45"
+  product_ind        "E"
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "REF FNB BR MNG GREENSTONE"
+  enquirer_tel       "0114522016"
+  sbc_industry       "BK"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3645856993000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3645856993000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 164947:
+
+[record
+  internal_seq_no    297992968
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      46452
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "45"
+  product_ind        "E"
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "REF FNB BR MNG MYBRANCH"
+  enquirer_tel       "0860102970"
+  sbc_industry       "BK"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3645600272000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3645600272000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 164948:
+
+[record
+  internal_seq_no    261686744
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      44521
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "45"
+  product_ind        "E"
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "REF FNB BR MNG FNB DIRECT CBS"
+  enquirer_tel       "020860102970"
+  sbc_industry       "BK"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3612846047000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3612846047000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 164949:
+
+[record
+  internal_seq_no    261599736
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      45798
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "45"
+  product_ind        "E"
+  footprint_ind      "N"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "REF FNB BR MNG HOGAN SECURITY DEPARTMEN"
+  enquirer_tel       "011352"
+  sbc_industry       "BK"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3612768800000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3612768800000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 164950:
+
+[record
+  internal_seq_no    170602297
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      40998
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "32"
+  product_ind        "E"
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "PDG"
+  enquirer_tel       "0112694701"
+  sbc_industry       "BK"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3526717219000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3526717219000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 1556039:
+
+[record
+  internal_seq_no    9553485
+  ticket_order_no    18069591
+  con_no             668478492
+  record_status      "2"
+  subscriber_cd      39030
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            NULL
+  product_ind        NULL
+  footprint_ind      "N"
+  enq_amt            NULL
+  instlmt_amt        NULL
+  con_salary         NULL
+  enquirer_name      "TransUnion Interactive"
+  enquirer_tel       "0861482482"
+  sbc_industry       "OT"
+  match_typ          "2"
+  enq_cd             "CCA"
+  supplier_ref_no    "IT0103"
+  ins_dttm           3706343471000000
+  ins_user_id        "39030"
+  ins_feeder_proc_id "01CPU"
+  ins_feed_id        "C:13"
+  ins_machine_id     "san1lplrtn1.transunion.co.za"
+  upd_dttm           3708071033000000
+  upd_user_id        "MMothapo"
+  upd_feeder_proc_id "01OA"
+  upd_feed_id        "EQ"
+  upd_machine_id     "san1lplrtn2.transunion.co.za"]
+
+Record 1556040:
+
+[record
+  internal_seq_no    368637913
+  ticket_order_no    18069535
+  con_no             668478492
+  record_status      "2"
+  subscriber_cd      59588
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "45"
+  product_ind        "E"
+  footprint_ind      "N"
+  enq_amt            0
+  instlmt_amt        ".00"
+  con_salary         ".00"
+  enquirer_name      "TUISCORECARD"
+  enquirer_tel       "09999999999"
+  sbc_industry       "OT"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3705986998000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3708071024000000
+  upd_user_id        "MMothapo"
+  upd_feeder_proc_id "01OA"
+  upd_feed_id        "EQ"
+  upd_machine_id     "san1lplrtn2.transunion.co.za"]
+
+Record 1556041:
+
+[record
+  internal_seq_no    368637908
+  ticket_order_no    18069494
+  con_no             668478492
+  record_status      "2"
+  subscriber_cd      39030
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "49"
+  product_ind        "E"
+  footprint_ind      "N"
+  enq_amt            0
+  instlmt_amt        ".00"
+  con_salary         ".00"
+  enquirer_name      "TRANSUNION INTERACTIVE"
+  enquirer_tel       "0861482482"
+  sbc_industry       "OT"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3705986996000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3708071017000000
+  upd_user_id        "MMothapo"
+  upd_feeder_proc_id "01OA"
+  upd_feed_id        "EQ"
+  upd_machine_id     "san1lplrtn2.transunion.co.za"]
+
+Record 1556042:
+
+[record
+  internal_seq_no    11714950
+  ticket_order_no    16970631
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      47220
+  subscriber_ref     "101706300923572"
+  enq_reason         NULL
+  enq_typ            NULL
+  product_ind        NULL
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        NULL
+  con_salary         "33700.00"
+  enquirer_name      "ABSA Bank Ltd"
+  enquirer_tel       "0861463"
+  sbc_industry       "CC"
+  match_typ          "2"
+  enq_cd             "CCA"
+  supplier_ref_no    "AB0302"
+  ins_dttm           3707803728000000
+  ins_user_id        "47220"
+  ins_feeder_proc_id "01CPU"
+  ins_feed_id        "C:41"
+  ins_machine_id     "san1lplrtn1.transunion.co.za"
+  upd_dttm           3707803728000000
+  upd_user_id        "47220"
+  upd_feeder_proc_id "01CPU"
+  upd_feed_id        "C:41"
+  upd_machine_id     "san1lplrtn1.transunion.co.za"]
+
+Record 1556043:
+
+[record
+  internal_seq_no    11573882
+  ticket_order_no    16766216
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      51471
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            NULL
+  product_ind        NULL
+  footprint_ind      "N"
+  enq_amt            NULL
+  instlmt_amt        NULL
+  con_salary         NULL
+  enquirer_name      "WESBANK"
+  enquirer_tel       "011636000"
+  sbc_industry       "VF"
+  match_typ          "2"
+  enq_cd             "CCA"
+  supplier_ref_no    "WS0102"
+  ins_dttm           3707722039000000
+  ins_user_id        "51471"
+  ins_feeder_proc_id "01CPU"
+  ins_feed_id        "C:41"
+  ins_machine_id     "san1lplrtn2.transunion.co.za"
+  upd_dttm           3707722039000000
+  upd_user_id        "51471"
+  upd_feeder_proc_id "01CPU"
+  upd_feed_id        "C:41"
+  upd_machine_id     "san1lplrtn2.transunion.co.za"]
+
+Record 1556044:
+
+[record
+  internal_seq_no    9832238
+  ticket_order_no    16744055
+  con_no             668478492
+  record_status      "2"
+  subscriber_cd      28631
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            NULL
+  product_ind        NULL
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        NULL
+  con_salary         NULL
+  enquirer_name      "Patricia Simone Chan Sam"
+  enquirer_tel       "+27116319918"
+  sbc_industry       "PL"
+  match_typ          "2"
+  enq_cd             "CCA"
+  supplier_ref_no    "714"
+  ins_dttm           3706506169000000
+  ins_user_id        "28631"
+  ins_feeder_proc_id "01CPU"
+  ins_feed_id        "C:34"
+  ins_machine_id     "san1lplrtn1.transunion.co.za"
+  upd_dttm           3707718100000000
+  upd_user_id        "MMothapo"
+  upd_feeder_proc_id "01OA"
+  upd_feed_id        "EQ"
+  upd_machine_id     "san1lplrtn2.transunion.co.za"]
+
+Record 1556045:
+
+[record
+  internal_seq_no    10218442
+  ticket_order_no    16743960
+  con_no             668478492
+  record_status      "2"
+  subscriber_cd      28631
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            NULL
+  product_ind        NULL
+  footprint_ind      "D"
+  enq_amt            0
+  instlmt_amt        NULL
+  con_salary         NULL
+  enquirer_name      "Patricia Simone Chan Sam"
+  enquirer_tel       "+27116319918"
+  sbc_industry       "PL"
+  match_typ          "2"
+  enq_cd             "CCA"
+  supplier_ref_no    "714"
+  ins_dttm           3706871975000000
+  ins_user_id        "28631"
+  ins_feeder_proc_id "01CPU"
+  ins_feed_id        "C:34"
+  ins_machine_id     "san1lplrtn1.transunion.co.za"
+  upd_dttm           3707718082000000
+  upd_user_id        "MMothapo"
+  upd_feeder_proc_id "01OA"
+  upd_feed_id        "EQ"
+  upd_machine_id     "san1lplrtn2.transunion.co.za"]
+
+Record 1556046:
+
+[record
+  internal_seq_no    10389503
+  ticket_order_no    16743860
+  con_no             668478492
+  record_status      "2"
+  subscriber_cd      28631
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            NULL
+  product_ind        NULL
+  footprint_ind      "D"
+  enq_amt            0
+  instlmt_amt        NULL
+  con_salary         NULL
+  enquirer_name      "Patricia Simone Chan Sam"
+  enquirer_tel       "+27116319918"
+  sbc_industry       "PL"
+  match_typ          "2"
+  enq_cd             "CCA"
+  supplier_ref_no    "714"
+  ins_dttm           3706960517000000
+  ins_user_id        "28631"
+  ins_feeder_proc_id "01CPU"
+  ins_feed_id        "C:34"
+  ins_machine_id     "san1lplrtn2.transunion.co.za"
+  upd_dttm           3707718067000000
+  upd_user_id        "MMothapo"
+  upd_feeder_proc_id "01OA"
+  upd_feed_id        "EQ"
+  upd_machine_id     "san1lplrtn2.transunion.co.za"]
+
+Record 1556047:
+
+[record
+  internal_seq_no    10546839
+  ticket_order_no    16743530
+  con_no             668478492
+  record_status      "2"
+  subscriber_cd      28631
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            NULL
+  product_ind        NULL
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        NULL
+  con_salary         NULL
+  enquirer_name      "Patricia Simone Chan Sam"
+  enquirer_tel       "+27116319918"
+  sbc_industry       "PL"
+  match_typ          "2"
+  enq_cd             "CCA"
+  supplier_ref_no    "714"
+  ins_dttm           3707045586000000
+  ins_user_id        "28631"
+  ins_feeder_proc_id "01CPU"
+  ins_feed_id        "C:34"
+  ins_machine_id     "san1lplrtn2.transunion.co.za"
+  upd_dttm           3707718006000000
+  upd_user_id        "MMothapo"
+  upd_feeder_proc_id "01OA"
+  upd_feed_id        "EQ"
+  upd_machine_id     "san1lplrtn2.transunion.co.za"]
+
+Record 1556048:
+
+[record
+  internal_seq_no    11367812
+  ticket_order_no    16229680
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      59588
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "13"
+  product_ind        NULL
+  footprint_ind      "N"
+  enq_amt            NULL
+  instlmt_amt        NULL
+  con_salary         NULL
+  enquirer_name      "TUI_Scorecard"
+  enquirer_tel       "9999999999"
+  sbc_industry       "OT"
+  match_typ          "2"
+  enq_cd             "CCA"
+  supplier_ref_no    "IT0101"
+  ins_dttm           3707622450000000
+  ins_user_id        "59588"
+  ins_feeder_proc_id "01CPU"
+  ins_feed_id        "C:13"
+  ins_machine_id     "san1lplrtn2.transunion.co.za"
+  upd_dttm           3707622450000000
+  upd_user_id        "59588"
+  upd_feeder_proc_id "01CPU"
+  upd_feed_id        "C:13"
+  upd_machine_id     "san1lplrtn2.transunion.co.za"]
+
+Record 1556049:
+
+[record
+  internal_seq_no    10720067
+  ticket_order_no    14494505
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      50377
+  subscriber_ref     "System"
+  enq_reason         "CREDIT RISK"
+  enq_typ            "32"
+  product_ind        NULL
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        NULL
+  con_salary         NULL
+  enquirer_name      "MFC, A DIVISION OF NEDBANK"
+  enquirer_tel       "011899000"
+  sbc_industry       "BK"
+  match_typ          "2"
+  enq_cd             "CCA"
+  supplier_ref_no    "IN0301"
+  ins_dttm           3707134331000000
+  ins_user_id        "50377"
+  ins_feeder_proc_id "01CPU"
+  ins_feed_id        "C:41"
+  ins_machine_id     "san1lplrtn1.transunion.co.za"
+  upd_dttm           3707134331000000
+  upd_user_id        "50377"
+  upd_feeder_proc_id "01CPU"
+  upd_feed_id        "C:41"
+  upd_machine_id     "san1lplrtn1.transunion.co.za"]
+
+Record 1556050:
+
+[record
+  internal_seq_no    10635819
+  ticket_order_no    14389133
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      28631
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            NULL
+  product_ind        NULL
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        NULL
+  con_salary         NULL
+  enquirer_name      "Patricia Simone Chan Sam"
+  enquirer_tel       "+27116319918"
+  sbc_industry       "PL"
+  match_typ          "2"
+  enq_cd             "CCA"
+  supplier_ref_no    "714"
+  ins_dttm           3707116654000000
+  ins_user_id        "28631"
+  ins_feeder_proc_id "01CPU"
+  ins_feed_id        "C:34"
+  ins_machine_id     "san1lplrtn1.transunion.co.za"
+  upd_dttm           3707116654000000
+  upd_user_id        "28631"
+  upd_feeder_proc_id "01CPU"
+  upd_feed_id        "C:34"
+  upd_machine_id     "san1lplrtn1.transunion.co.za"]
+
+Record 1556051:
+
+[record
+  internal_seq_no    9918553
+  ticket_order_no    10924050
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      49545
+  subscriber_ref     NULL
+  enq_reason         "CREDIT RISK"
+  enq_typ            "32"
+  product_ind        NULL
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        NULL
+  con_salary         "42900.00"
+  enquirer_name      "MTN (Pty) Ltd"
+  enquirer_tel       "011913000"
+  sbc_industry       "TE"
+  match_typ          "2"
+  enq_cd             "CCA"
+  supplier_ref_no    "XJ0101"
+  ins_dttm           3706525485000000
+  ins_user_id        "49545"
+  ins_feeder_proc_id "01CPU"
+  ins_feed_id        "C:41"
+  ins_machine_id     "san1lplrtn1.transunion.co.za"
+  upd_dttm           3706525485000000
+  upd_user_id        "49545"
+  upd_feeder_proc_id "01CPU"
+  upd_feed_id        "C:41"
+  upd_machine_id     "san1lplrtn1.transunion.co.za"]
+
+Record 1556052:
+
+[record
+  internal_seq_no    9856050
+  ticket_order_no    10847027
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      62839
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            NULL
+  product_ind        NULL
+  footprint_ind      "Y"
+  enq_amt            NULL
+  instlmt_amt        NULL
+  con_salary         NULL
+  enquirer_name      "Wonga Finance SA Ltd"
+  enquirer_tel       "086196641"
+  sbc_industry       "FL"
+  match_typ          "2"
+  enq_cd             "NLR"
+  supplier_ref_no    NULL
+  ins_dttm           3706511787000000
+  ins_user_id        "62839"
+  ins_feeder_proc_id "01CPU"
+  ins_feed_id        "C:42"
+  ins_machine_id     "san1lplrtn1.transunion.co.za"
+  upd_dttm           3706511787000000
+  upd_user_id        "62839"
+  upd_feeder_proc_id "01CPU"
+  upd_feed_id        "C:42"
+  upd_machine_id     "san1lplrtn1.transunion.co.za"]
+
+Record 1556053:
+
+[record
+  internal_seq_no    9853923
+  ticket_order_no    10844226
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      53739
+  subscriber_ref     "RCS-DEBUG-TEST"
+  enq_reason         NULL
+  enq_typ            NULL
+  product_ind        NULL
+  footprint_ind      "N"
+  enq_amt            0
+  instlmt_amt        NULL
+  con_salary         ".00"
+  enquirer_name      "RCS CASH LOANS"
+  enquirer_tel       "021-597-4000"
+  sbc_industry       "FL"
+  match_typ          "2"
+  enq_cd             "CCA"
+  supplier_ref_no    "ZS0179"
+  ins_dttm           3706511321000000
+  ins_user_id        "53739"
+  ins_feeder_proc_id "01CPU"
+  ins_feed_id        "C:13"
+  ins_machine_id     "san1lplrtn1.transunion.co.za"
+  upd_dttm           3706511321000000
+  upd_user_id        "53739"
+  upd_feeder_proc_id "01CPU"
+  upd_feed_id        "C:13"
+  upd_machine_id     "san1lplrtn1.transunion.co.za"]
+
+Record 1556054:
+
+[record
+  internal_seq_no    9475169
+  ticket_order_no    9475088
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      46947
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            NULL
+  product_ind        NULL
+  footprint_ind      "Y"
+  enq_amt            NULL
+  instlmt_amt        NULL
+  con_salary         NULL
+  enquirer_name      "SVF t/a Capfin"
+  enquirer_tel       "0873540000"
+  sbc_industry       "FC"
+  match_typ          "2"
+  enq_cd             "NLR"
+  supplier_ref_no    "5333"
+  ins_dttm           3706278246000000
+  ins_user_id        "46947"
+  ins_feeder_proc_id "01CPU"
+  ins_feed_id        "C:43"
+  ins_machine_id     "san1lplrtn2.transunion.co.za"
+  upd_dttm           3706278246000000
+  upd_user_id        "46947"
+  upd_feeder_proc_id "01CPU"
+  upd_feed_id        "C:43"
+  upd_machine_id     "san1lplrtn2.transunion.co.za"]
+
+Record 1556055:
+
+[record
+  internal_seq_no    368750286
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      46452
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "45"
+  product_ind        "E"
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "REF FNB BR MNG MYBRANCH"
+  enquirer_tel       "0860102970"
+  sbc_industry       "BK"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3706019166000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3706019166000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 1556056:
+
+[record
+  internal_seq_no    368595181
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      59551
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "45"
+  product_ind        "E"
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "ABSA"
+  enquirer_tel       "02883000"
+  sbc_industry       "BK"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3705924195000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3705924195000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 1556057:
+
+[record
+  internal_seq_no    368578500
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      44521
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "45"
+  product_ind        "E"
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "REF FNB BR MNG PREMIER SUITE"
+  enquirer_tel       "0875777000"
+  sbc_industry       "BK"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3705919998000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3705919998000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 1556058:
+
+[record
+  internal_seq_no    368569702
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      47066
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "45"
+  product_ind        "E"
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "WESBANK ACQUISITI"
+  enquirer_tel       "0861482435"
+  sbc_industry       "BK"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3705917932000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3705917932000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 1556059:
+
+[record
+  internal_seq_no    368569686
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      50377
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "32"
+  product_ind        "E"
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "MFC A DIVISION OF NEDBANK"
+  enquirer_tel       "0118799000"
+  sbc_industry       "BK"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3705917929000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3705917929000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 1556060:
+
+[record
+  internal_seq_no    368565890
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      51101
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "45"
+  product_ind        "E"
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "AVAF"
+  enquirer_tel       "0860669669"
+  sbc_industry       "VF"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3705916951000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3705916951000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 1556061:
+
+[record
+  internal_seq_no    368495220
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      59588
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "45"
+  product_ind        "E"
+  footprint_ind      "N"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "TUISCORECARD"
+  enquirer_tel       "09999999999"
+  sbc_industry       "OT"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3705897826000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3705897826000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 1556062:
+
+[record
+  internal_seq_no    368495217
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      39030
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "49"
+  product_ind        "E"
+  footprint_ind      "N"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "TRANSUNION INTERACTIVE"
+  enquirer_tel       "0861482482"
+  sbc_industry       "OT"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3705897824000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3705897824000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 1556063:
+
+[record
+  internal_seq_no    368466742
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      59927
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "45"
+  product_ind        "E"
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "MDD SA"
+  enquirer_tel       "0"
+  sbc_industry       "OT"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3705840780000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3705840780000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 1556064:
+
+[record
+  internal_seq_no    368433395
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      51882
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "45"
+  product_ind        "E"
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "DIRECT AXIS"
+  enquirer_tel       "0116326000"
+  sbc_industry       "FL"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3705831548000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3705831548000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 1556065:
+
+[record
+  internal_seq_no    368359797
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      59588
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "45"
+  product_ind        "E"
+  footprint_ind      "N"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "TUISCORECARD"
+  enquirer_tel       "09999999999"
+  sbc_industry       "OT"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3705810328000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3705810328000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 1556066:
+
+[record
+  internal_seq_no    368359795
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      39030
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "49"
+  product_ind        "E"
+  footprint_ind      "N"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "TRANSUNION INTERACTIVE"
+  enquirer_tel       "0861482482"
+  sbc_industry       "OT"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3705810327000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3705810327000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 1556067:
+
+[record
+  internal_seq_no    368288757
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      53739
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "45"
+  product_ind        "E"
+  footprint_ind      "N"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "RCS CASH LOANS"
+  enquirer_tel       "0"
+  sbc_industry       "FL"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3705743428000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3705743428000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 1556068:
+
+[record
+  internal_seq_no    368275197
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      59588
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "45"
+  product_ind        "E"
+  footprint_ind      "N"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "TUISCORECARD"
+  enquirer_tel       "09999999999"
+  sbc_industry       "OT"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3705739242000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3705739242000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 1556069:
+
+[record
+  internal_seq_no    368275160
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      39030
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "49"
+  product_ind        "E"
+  footprint_ind      "N"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "TRANSUNION INTERACTIVE"
+  enquirer_tel       "0861482482"
+  sbc_industry       "OT"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3705739236000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3705739236000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 1556070:
+
+[record
+  internal_seq_no    368103790
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      59588
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "45"
+  product_ind        "E"
+  footprint_ind      "N"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "TUISCORECARD"
+  enquirer_tel       "09999999999"
+  sbc_industry       "OT"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3705647401000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3705647401000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 1556071:
+
+[record
+  internal_seq_no    368103773
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      39030
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "49"
+  product_ind        "E"
+  footprint_ind      "N"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "TRANSUNION INTERACTIVE"
+  enquirer_tel       "0861482482"
+  sbc_industry       "OT"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3705647396000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3705647396000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 1556072:
+
+[record
+  internal_seq_no    367958626
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      59881
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "43"
+  product_ind        "E"
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "DIRECTAXIS DA"
+  enquirer_tel       "0217643404"
+  sbc_industry       "FC"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3705407704000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3705407704000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 1556073:
+
+[record
+  internal_seq_no    367956997
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      59588
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "45"
+  product_ind        "E"
+  footprint_ind      "N"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "TUISCORECARD"
+  enquirer_tel       "09999999999"
+  sbc_industry       "OT"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3705407300000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3705407300000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 1556074:
+
+[record
+  internal_seq_no    367956989
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      39030
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "49"
+  product_ind        "E"
+  footprint_ind      "N"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "TRANSUNION INTERACTIVE"
+  enquirer_tel       "0861482482"
+  sbc_industry       "OT"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3705407298000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3705407298000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 1556075:
+
+[record
+  internal_seq_no    367909689
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      53739
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "45"
+  product_ind        "E"
+  footprint_ind      "N"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "RCS CASH LOANS"
+  enquirer_tel       "0"
+  sbc_industry       "FL"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3705394676000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3705394676000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 1556076:
+
+[record
+  internal_seq_no    367653098
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      59588
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "45"
+  product_ind        "E"
+  footprint_ind      "N"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "TUISCORECARD"
+  enquirer_tel       "09999999999"
+  sbc_industry       "OT"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3705234325000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3705234325000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 1556077:
+
+[record
+  internal_seq_no    367652680
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      39030
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "49"
+  product_ind        "E"
+  footprint_ind      "N"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "TRANSUNION INTERACTIVE"
+  enquirer_tel       "0861482482"
+  sbc_industry       "OT"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3705234228000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3705234228000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 1556078:
+
+[record
+  internal_seq_no    16246193
+  ticket_order_no    20518387343
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      27418
+  subscriber_ref     "630"
+  enq_reason         "O"
+  enq_typ            "02"
+  product_ind        "M"
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "Customer service"
+  enquirer_tel       "0860100558"
+  sbc_industry       "NL"
+  match_typ          "M"
+  enq_cd             "NLR"
+  supplier_ref_no    "630"
+  ins_dttm           3705227419000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3705227419000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 1556079:
+
+[record
+  internal_seq_no    367624083
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      47242
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "32"
+  product_ind        "E"
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "WOOLWORTHS FINANCIAL SERVICE"
+  enquirer_tel       "0861502040"
+  sbc_industry       "CL"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3705227220000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3705227220000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 1556080:
+
+[record
+  internal_seq_no    367622728
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      48635
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "43"
+  product_ind        "E"
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "DIRECTAXISDD"
+  enquirer_tel       "0217643930"
+  sbc_industry       "FC"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3705226878000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3705226878000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 1556081:
+
+[record
+  internal_seq_no    367347337
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      40895
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "34"
+  product_ind        "E"
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "STANDARD BANK INSURANCE BROKERS"
+  enquirer_tel       "0118585000"
+  sbc_industry       "BK"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3705057755000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3705057755000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 1556082:
+
+[record
+  internal_seq_no    367057541
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      59927
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "45"
+  product_ind        "E"
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "MDD SA"
+  enquirer_tel       "0"
+  sbc_industry       "OT"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3704785959000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3704785959000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 1556083:
+
+[record
+  internal_seq_no    365801038
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      49617
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "32"
+  product_ind        "E"
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "MOBICRED"
+  enquirer_tel       "0873513083"
+  sbc_industry       "GR"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3703852965000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3703852965000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 1556084:
+
+[record
+  internal_seq_no    365784710
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      60455
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "45"
+  product_ind        "E"
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "FOSCHINIDATA"
+  enquirer_tel       "0219371111"
+  sbc_industry       "OT"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3703849052000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3703849052000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 1556085:
+
+[record
+  internal_seq_no    365683010
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      51209
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "32"
+  product_ind        "E"
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "TRUWORTHS"
+  enquirer_tel       "0214602300"
+  sbc_industry       "CL"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3703776836000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3703776836000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 1556086:
+
+[record
+  internal_seq_no    365669839
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      38767
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "32"
+  product_ind        "E"
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "VODACOMCOS"
+  enquirer_tel       "0115464826"
+  sbc_industry       "TE"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3703744709000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3703744709000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 1556087:
+
+[record
+  internal_seq_no    365545283
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      38767
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "32"
+  product_ind        "E"
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "VODACOMCOS"
+  enquirer_tel       "0115464826"
+  sbc_industry       "TE"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3703581800000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3703581800000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 1556088:
+
+[record
+  internal_seq_no    364619663
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      48637
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "43"
+  product_ind        "E"
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "DIRECTAXIS DA"
+  enquirer_tel       "0217643404"
+  sbc_industry       "FC"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3702895760000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3702895760000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 1556089:
+
+[record
+  internal_seq_no    364514650
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      53739
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "45"
+  product_ind        "E"
+  footprint_ind      "N"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "RCS CASH LOANS"
+  enquirer_tel       "0"
+  sbc_industry       "FL"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3702823288000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3702823288000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 1556090:
+
+[record
+  internal_seq_no    363038103
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      59881
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "43"
+  product_ind        "E"
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "DIRECTAXIS DA"
+  enquirer_tel       "0217643404"
+  sbc_industry       "FC"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3701587539000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3701587539000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 1556091:
+
+[record
+  internal_seq_no    362994119
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      48640
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "43"
+  product_ind        "E"
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "DIRECTAXISLD"
+  enquirer_tel       "0217643930"
+  sbc_industry       "FC"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3701527841000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3701527841000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 1556092:
+
+[record
+  internal_seq_no    362883966
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      47220
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "45"
+  product_ind        "E"
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "ABSA BANK LTD"
+  enquirer_tel       "0861462273"
+  sbc_industry       "CC"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3701498115000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3701498115000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 1556093:
+
+[record
+  internal_seq_no    362656003
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      39030
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "49"
+  product_ind        "E"
+  footprint_ind      "N"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "TRANSUNION INTERACTIVE"
+  enquirer_tel       "0861482482"
+  sbc_industry       "OT"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3701061901000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3701061901000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 1556094:
+
+[record
+  internal_seq_no    362550213
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      53739
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "45"
+  product_ind        "E"
+  footprint_ind      "N"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "RCS CASH LOANS"
+  enquirer_tel       "0"
+  sbc_industry       "FL"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3700982936000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3700982936000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 1556095:
+
+[record
+  internal_seq_no    362533256
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      47242
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "32"
+  product_ind        "E"
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "WOOLWORTHS FINANCIAL SERVICE"
+  enquirer_tel       "0861502040"
+  sbc_industry       "CL"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3700978164000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3700978164000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 1556096:
+
+[record
+  internal_seq_no    362042015
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      48913
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "45"
+  product_ind        "E"
+  footprint_ind      "N"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "TRANSUNION"
+  enquirer_tel       "0112149600"
+  sbc_industry       "OT"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3700500259000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3700500259000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 1556097:
+
+[record
+  internal_seq_no    361901227
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      59230
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "45"
+  product_ind        "E"
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "GP CARDS V"
+  enquirer_tel       "020"
+  sbc_industry       "FC"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3700409943000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3700409943000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 1556098:
+
+[record
+  internal_seq_no    361765623
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      59230
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "45"
+  product_ind        "E"
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "GP CARDS V"
+  enquirer_tel       "020"
+  sbc_industry       "FC"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3700326747000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3700326747000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 1556099:
+
+[record
+  internal_seq_no    15627952
+  ticket_order_no    18179626769
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      27418
+  subscriber_ref     "630"
+  enq_reason         "O"
+  enq_typ            "02"
+  product_ind        "M"
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "Customer service"
+  enquirer_tel       "0860100558"
+  sbc_industry       "NL"
+  match_typ          "M"
+  enq_cd             "NLR"
+  supplier_ref_no    "630"
+  ins_dttm           3700299434000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3700299434000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 1556100:
+
+[record
+  internal_seq_no    10000590236
+  ticket_order_no    101217855
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      42579
+  subscriber_ref     NULL
+  enq_reason         "60"
+  enq_typ            "FTL"
+  product_ind        NULL
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        NULL
+  con_salary         NULL
+  enquirer_name      "NASTASHA JOHNSON"
+  enquirer_tel       "7643000"
+  sbc_industry       NULL
+  match_typ          NULL
+  enq_cd             NULL
+  supplier_ref_no    NULL
+  ins_dttm           3700299340000000
+  ins_user_id        "abbatch"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3700299340000000
+  upd_user_id        "abbatch"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 1556101:
+
+[record
+  internal_seq_no    361558650
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      51882
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "45"
+  product_ind        "E"
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "DIRECT AXIS"
+  enquirer_tel       "0116326000"
+  sbc_industry       "FL"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3700211901000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3700211901000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 1556102:
+
+[record
+  internal_seq_no    360964551
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      47220
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "45"
+  product_ind        "E"
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "ABSA BANK LTD"
+  enquirer_tel       "0861462273"
+  sbc_industry       "CC"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3699715529000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3699715529000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 1556103:
+
+[record
+  internal_seq_no    360964025
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      59230
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "45"
+  product_ind        "E"
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "GP CARDS V"
+  enquirer_tel       "020"
+  sbc_industry       "FC"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3699714798000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3699714798000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 1556104:
+
+[record
+  internal_seq_no    360931097
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      71502
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "45"
+  product_ind        "E"
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "ABSA BANK LTD"
+  enquirer_tel       "0861462273"
+  sbc_industry       "BK"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3699701788000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3699701788000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 1556105:
+
+[record
+  internal_seq_no    360906853
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      48634
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "43"
+  product_ind        "E"
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "DIRECTAXIS DA"
+  enquirer_tel       "0217643404"
+  sbc_industry       "FC"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3699695257000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3699695257000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 1556106:
+
+[record
+  internal_seq_no    360906643
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      50583
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "45"
+  product_ind        "E"
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "HLPDSK"
+  enquirer_tel       "0114894311"
+  sbc_industry       "IN"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3699695195000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3699695195000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 1556107:
+
+[record
+  internal_seq_no    360906646
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      45730
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "45"
+  product_ind        "E"
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "HLPDSK"
+  enquirer_tel       "0114894311"
+  sbc_industry       "IN"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3699695195000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3699695195000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 1556108:
+
+[record
+  internal_seq_no    360881959
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      45798
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "45"
+  product_ind        "E"
+  footprint_ind      "N"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "REF FNB BR MNG HOGAN SECURITY DEPARTMEN"
+  enquirer_tel       "011352"
+  sbc_industry       "BK"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3699688818000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3699688818000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 1556109:
+
+[record
+  internal_seq_no    360879140
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      44521
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "45"
+  product_ind        "E"
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "REF FNB BR MNG MYBRANCH"
+  enquirer_tel       "0860102970"
+  sbc_industry       "BK"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3699688133000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3699688133000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 1556110:
+
+[record
+  internal_seq_no    360875042
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      40661
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "45"
+  product_ind        "E"
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "DISCOVERY INSURE"
+  enquirer_tel       "0860998877"
+  sbc_industry       "IN"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3699687135000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3699687135000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 1556111:
+
+[record
+  internal_seq_no    360862476
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      46977
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "45"
+  product_ind        "E"
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "MUSA RAMPOTO"
+  enquirer_tel       "0860006784"
+  sbc_industry       "OT"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3699683966000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3699683966000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 1556112:
+
+[record
+  internal_seq_no    360859835
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      40895
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "34"
+  product_ind        "E"
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "STANDARD BANK INSURANCE BROKERS"
+  enquirer_tel       "0118585000"
+  sbc_industry       "BK"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3699683294000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3699683294000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 1556113:
+
+[record
+  internal_seq_no    360773294
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      40895
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "34"
+  product_ind        "E"
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "STANDARD BANK INSURANCE BROKERS"
+  enquirer_tel       "0118585000"
+  sbc_industry       "BK"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3699609657000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3699609657000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 1556114:
+
+[record
+  internal_seq_no    360575684
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      51101
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "45"
+  product_ind        "E"
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "AVAF"
+  enquirer_tel       "0860669669"
+  sbc_industry       "VF"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3699353243000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3699353243000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 1556115:
+
+[record
+  internal_seq_no    360575192
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      50377
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "32"
+  product_ind        "E"
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "MFC A DIVISION OF NEDBANK"
+  enquirer_tel       "0118799000"
+  sbc_industry       "BK"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3699353094000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3699353094000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 1556116:
+
+[record
+  internal_seq_no    360550747
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      52483
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "45"
+  product_ind        "E"
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "BMW FINANCIAL SERV BMW FINANCIAL SERVIC"
+  enquirer_tel       "0"
+  sbc_industry       "VF"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3699345564000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3699345564000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 1556117:
+
+[record
+  internal_seq_no    360296226
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      47066
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "45"
+  product_ind        "E"
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "WESBANK ACQUISITI"
+  enquirer_tel       "0861482435"
+  sbc_industry       "BK"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3699173111000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3699173111000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 1556118:
+
+[record
+  internal_seq_no    354539517
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      48268
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "32"
+  product_ind        "E"
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "MOBILE TELEPHONE"
+  enquirer_tel       "0112146000"
+  sbc_industry       "CE"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3694336917000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3694336917000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 1556119:
+
+[record
+  internal_seq_no    10024023573
+  ticket_order_no    977013721
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      40985
+  subscriber_ref     NULL
+  enq_reason         "60"
+  enq_typ            "FTL"
+  product_ind        NULL
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        NULL
+  con_salary         NULL
+  enquirer_name      "GERALD MANYONI"
+  enquirer_tel       "9123000"
+  sbc_industry       NULL
+  match_typ          NULL
+  enq_cd             NULL
+  supplier_ref_no    NULL
+  ins_dttm           3684736205000000
+  ins_user_id        "abbatch"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3684736205000000
+  upd_user_id        "abbatch"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 1556120:
+
+[record
+  internal_seq_no    342855475
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      48268
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "32"
+  product_ind        "E"
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "MOBILE TELEPHONE"
+  enquirer_tel       "0112146000"
+  sbc_industry       "CE"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3684401741000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3684401741000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 1556121:
+
+[record
+  internal_seq_no    309079847
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      45033
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "45"
+  product_ind        "E"
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "MMSA"
+  enquirer_tel       "0315734000"
+  sbc_industry       "IN"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3654946385000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3654946385000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 1556122:
+
+[record
+  internal_seq_no    308751762
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      44521
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "45"
+  product_ind        "E"
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "REF FNB BR MNG FNB DIRECT CBS"
+  enquirer_tel       "020860102970"
+  sbc_industry       "BK"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3654607867000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3654607867000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 1556123:
+
+[record
+  internal_seq_no    298199863
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      44521
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "45"
+  product_ind        "E"
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "REF FNB BR MNG GREENSTONE"
+  enquirer_tel       "0114522016"
+  sbc_industry       "BK"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3645856993000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3645856993000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 1556124:
+
+[record
+  internal_seq_no    297992968
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      46452
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "45"
+  product_ind        "E"
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "REF FNB BR MNG MYBRANCH"
+  enquirer_tel       "0860102970"
+  sbc_industry       "BK"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3645600272000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3645600272000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 1556125:
+
+[record
+  internal_seq_no    261686744
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      44521
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "45"
+  product_ind        "E"
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "REF FNB BR MNG FNB DIRECT CBS"
+  enquirer_tel       "020860102970"
+  sbc_industry       "BK"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3612846047000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3612846047000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 1556126:
+
+[record
+  internal_seq_no    261599736
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      45798
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "45"
+  product_ind        "E"
+  footprint_ind      "N"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "REF FNB BR MNG HOGAN SECURITY DEPARTMEN"
+  enquirer_tel       "011352"
+  sbc_industry       "BK"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3612768800000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3612768800000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
+Record 1556127:
+
+[record
+  internal_seq_no    170602297
+  ticket_order_no    0
+  con_no             668478492
+  record_status      "3"
+  subscriber_cd      40998
+  subscriber_ref     NULL
+  enq_reason         NULL
+  enq_typ            "32"
+  product_ind        "E"
+  footprint_ind      "Y"
+  enq_amt            0
+  instlmt_amt        "0.00"
+  con_salary         "0.00"
+  enquirer_name      "PDG"
+  enquirer_tel       "0112694701"
+  sbc_industry       "BK"
+  match_typ          "M"
+  enq_cd             "CCA"
+  supplier_ref_no    NULL
+  ins_dttm           3526717219000000
+  ins_user_id        "CPU"
+  ins_feeder_proc_id "MG"
+  ins_feed_id        "EQ"
+  ins_machine_id     "spndc2fbn1.transunion.co.za"
+  upd_dttm           3526717219000000
+  upd_user_id        "CPU"
+  upd_feeder_proc_id "MG"
+  upd_feed_id        "EQ"
+  upd_machine_id     "spndc2fbn1.transunion.co.za"]
+
